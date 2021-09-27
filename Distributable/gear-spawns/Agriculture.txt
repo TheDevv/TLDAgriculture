@@ -1,0 +1,48 @@
+#--------------------
+loottable=CargoDrinkA
+#--------------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+
+#--------------------
+loottable=CargoDrinkB
+#--------------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#--------------------
+loottable=CargoDrinkC
+#--------------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#----------------------
+loottable=FishingDrawer
+#----------------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#----------------
+loottable=Freezer
+#----------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#---------------
+loottable=Fridge
+#---------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#------------------------
+loottable=KitchenCupboard
+#------------------------
+item=Avocado w=100
+item=Pumpkin w=100
+
+#-------------------
+loottable=PlasticBox
+#-------------------
+item=Avocado w=100
+item=Pumpkin w=100

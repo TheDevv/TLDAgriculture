@@ -1,0 +1,30 @@
+{
+    "ModGenericComponent": {
+                                "DisplayNameLocalizationId" : "GAMEPLAY_Mushroomplanterstart",
+                                "DescriptionLocalizatonId" : "GAMEPLAY_MushroomplanterstartDescription",
+                                "InventoryActionLocalizationId" : "",
+                                "WeightKG": 0.6,
+                                "DaysToDecay" : 0,
+                                "MaxHP" : 100,
+                                "InitialCondition" : "Perfect",
+                                "InventoryCategory" : "Auto",
+                                "PickUpAudio" : "",
+                                "PutBackAudio" : "",
+                                "StowAudio" : "Play_InventoryStow",
+                                "WornOutAudio" : "",
+                                "InspectOnPickup" : true,
+                                "InspectDistance" : 0.4,
+                                "InspectAngles" : [0, 0, 0],
+                                "InspectOffset" : [0, 0, 0],
+                                "InspectScale" :  [1, 1, 1],
+                                "NormalModel" : "",
+                                "InspectModel" : ""
+                            }
+},
+{
+    "ModEvolveComponent" : {
+                            "TargetItemName" : "GEAR_Mushroomplanterstart",
+                            "EvolveHours" : 900,
+                            "IndoorsOnly" : true
+                        }
+}
